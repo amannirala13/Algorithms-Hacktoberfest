@@ -1,8 +1,10 @@
-## Welcome to the Algorithms-Hacktoberfest by Fnplus
+## Welcome to the Algorithms-Hacktoberfest by FnPlus
 
-![fnplus](https://user-images.githubusercontent.com/25124428/47038568-6b991580-d19f-11e8-8e63-c1067fc04378.jpg)
+<p align="center">
+<img src="https://i.imgur.com/GOXelrQ.gif" width="600" height="600" center="true" />
+</p>
 
-This repository is a part of [ HacktoberFest -an event organised by DigitalOcean ](https://hacktoberfest.digitalocean.com/). 
+This repository is a part of [HacktoberFest -an event organised by DigitalOcean](https://hacktoberfest.digitalocean.com/). 
 You are requested to create your profile using the above link to be a part of it.
 
 This repository contains examples of various algorithms written on different programming languages...
@@ -47,6 +49,19 @@ This repository contains examples of various algorithms written on different pro
 | Java            | <pre>javac [filename.java]<br>java [filename]</pre>                    |
 | golang          | <pre>go build [filename.go]<br>[./filename]</pre>                     |
 
+## Trees
+
+| Alogrithm        | C   | C++ | Java | Python |  JavaScript|
+| --------------- | -----|------|------|---------------|-------------- |
+| Pre-Order Traversal |   |       |      |             |                |
+| Post-Order Traversal |   |       |      |              |                |
+| In-Order Traversal |   |       |      |             |                |
+| Binary Search Tree |   |       |      |             |                |
+| Height of the Tree |   |       |      |              |                |
+| Depth of the Tree |   |       |      |             |                |
+| AVL Tree |   |       |      |             |                |
+| Spanning Tree |   |       |      |             |                |
+
 
 ## Contributing
 
@@ -69,3 +84,6 @@ Feel free to contact us at our [E-mail](support@fnplus.tech), we'd be happy to h
 
 Only project maintainers should merge a PR.
 Other members can add their reviews to a PR but the merging should be done by only a project maintainer.
+
+## Authors
+ * [Saurav Jaiswal](https://github.com/sauravjaiswalsj)
